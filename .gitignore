@@ -1,0 +1,8 @@
+# nodejs
+node_modules
+
+# build
+/app.js
+
+# misc
+.DS_Store
